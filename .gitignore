@@ -1,3 +1,6 @@
 .DS_STORE
 __pycache__/
 venv/
+data/
+cvae_model_mnist.pth
+vae_model_mnist.pth
