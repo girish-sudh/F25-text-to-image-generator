@@ -6,7 +6,7 @@ On this page, click the button that says "Fork" and click "Create Fork." This wi
 
 Go to the forked repository, and click the green button that says "Code."
 
-Copy the first command that pops up under the HTML tab.
+Copy the first command that pops up under the HTTPS tab.
 
 Go to terminal in your computer and cd into where you want to put your project in.
 
