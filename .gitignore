@@ -4,3 +4,6 @@ venv/
 data/
 cvae_model_mnist.pth
 vae_model_mnist.pth
+celeba_cvae_model.pth
+output/
+runs/
